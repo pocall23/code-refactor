@@ -12,4 +12,4 @@ This code refactor of a digital marketing company allows the page to be more app
 
 HTML & CSS.
 
-![alt text](/assets/Images/homepage-screenshot.png)
+![alt text](./assets/images/homepage-screenshot.png)
